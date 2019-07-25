@@ -1,0 +1,13 @@
+.content{
+    grid-area: c;
+}
+
+.content img{
+    width: 100%;
+}
+
+.ava{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
